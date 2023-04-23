@@ -1,0 +1,7 @@
+/Users/luinfo/NetBeansProjects/javaPruebaJPA/src/main/java/com/mycompany/javapruebajpa/JavaPruebaJPA.java
+/Users/luinfo/NetBeansProjects/javaPruebaJPA/src/main/java/com/mycompany/javapruebajpa/persistencia/ControladoraPersistencia.java
+/Users/luinfo/NetBeansProjects/javaPruebaJPA/src/main/java/com/mycompany/javapruebajpa/persistencia/exceptions/IllegalOrphanException.java
+/Users/luinfo/NetBeansProjects/javaPruebaJPA/src/main/java/com/mycompany/javapruebajpa/persistencia/AlumnoJpaController.java
+/Users/luinfo/NetBeansProjects/javaPruebaJPA/src/main/java/com/mycompany/javapruebajpa/persistencia/exceptions/PreexistingEntityException.java
+/Users/luinfo/NetBeansProjects/javaPruebaJPA/src/main/java/com/mycompany/javapruebajpa/persistencia/exceptions/NonexistentEntityException.java
+/Users/luinfo/NetBeansProjects/javaPruebaJPA/src/main/java/com/mycompany/javapruebajpa/logica/Alumno.java
