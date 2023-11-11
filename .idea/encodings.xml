@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ArrayList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ArrayList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClaAbstractas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClaAbstractas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EjercicioIntegradorPOO/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EjercicioIntegradorPOO/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Encapsulamiento/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Encapsulamiento/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Herencia/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Herencia/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LinkedList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LinkedList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetBeansProjects/HolaMundo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetBeansProjects/HolaMundo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetBeansProjects/gatos_app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetBeansProjects/gatos_app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetBeansProjects/mensajesCoex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NetBeansProjects/mensajesCoex/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POLIMORFISMO/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POLIMORFISMO/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POO/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POO/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaPruebaJPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaPruebaJPA/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

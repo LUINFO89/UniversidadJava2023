@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="POLIMORFISMO" />
+        <module name="ArrayList" />
+        <module name="Herencia" />
+        <module name="ClaAbstractas" />
+        <module name="HolaMundo" />
+        <module name="mensajesCoex" />
+        <module name="LinkedList" />
+        <module name="POO" />
+        <module name="Encapsulamiento" />
+        <module name="javaPruebaJPA" />
+        <module name="EjercicioIntegradorPOO" />
+        <module name="gatos_app" />
+        <module name="Interface" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

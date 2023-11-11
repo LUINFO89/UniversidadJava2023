@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/POO/pom.xml" />
+        <option value="$PROJECT_DIR$/Herencia/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList/pom.xml" />
+        <option value="$PROJECT_DIR$/Interface/pom.xml" />
+        <option value="$PROJECT_DIR$/LinkedList/pom.xml" />
+        <option value="$PROJECT_DIR$/POLIMORFISMO/pom.xml" />
+        <option value="$PROJECT_DIR$/ClaAbstractas/pom.xml" />
+        <option value="$PROJECT_DIR$/javaPruebaJPA/pom.xml" />
+        <option value="$PROJECT_DIR$/Encapsulamiento/pom.xml" />
+        <option value="$PROJECT_DIR$/NetBeansProjects/gatos_app/pom.xml" />
+        <option value="$PROJECT_DIR$/NetBeansProjects/HolaMundo/pom.xml" />
+        <option value="$PROJECT_DIR$/NetBeansProjects/mensajesCoex/pom.xml" />
+        <option value="$PROJECT_DIR$/EjercicioIntegradorPOO/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
